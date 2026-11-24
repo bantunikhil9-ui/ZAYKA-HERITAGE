@@ -1,4 +1,4 @@
-# TEAM-DOOM
+# ZAYKA HERITAGE
 # Zayka Heritage — Fine Dining Restaurant Website
 
 A modern, responsive single-page restaurant web application crafted with an editorial culinary aesthetic. Built as a college web development project, it showcases contemporary Indian fine dining with interactive menu filtering, live order cart calculations, promo code redemption, dynamic customer reviews, and instant table reservations.
